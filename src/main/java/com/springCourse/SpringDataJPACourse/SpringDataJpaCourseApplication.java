@@ -1,5 +1,6 @@
 package com.springCourse.SpringDataJPACourse;
 
+import com.springCourse.SpringDataJPACourse.Entity.Category;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -7,7 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringDataJpaCourseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDataJpaCourseApplication.class, args);
+		SpringApplication.run(SpringDataJpaCourseApplication.class, args
+		);
+
+
 	}
 
 }

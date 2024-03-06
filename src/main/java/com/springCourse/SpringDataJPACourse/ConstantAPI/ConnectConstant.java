@@ -8,6 +8,7 @@ public  class ConnectConstant {
               public class CategoryAPI {
                      public static final String saveCategory = "save";
                      public static final String findAllCategory="allcategory";
+                     public static final String findAllCategory1="allcategory";
               }
        }
 
